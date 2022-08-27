@@ -2,7 +2,7 @@
 An extension to stop the use of hapara highlights
 ## Use
 You can download this repo and run iframe.html.
-Note that if the extension is set to see local pages, this method will not work. Instead, use the below method.   
+Note that if hapara is set to allow access to local pages (chrome://extensions > hapara highlights > details > Allow access to file URLs), this method will not work. Instead, use the below method.   
 
 Copy the code down below:
                                     

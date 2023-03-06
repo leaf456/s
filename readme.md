@@ -11,5 +11,11 @@ Copy the code down below:
 and paste it into the url bar in a new tab.
 Since hapara can't see `data:` urls, you can browse the web privately. 
 
-Note that you will have to get an extension to use either of these methods, called "Iframe allow". You can get it at the chrome web store from the following url:
+## Note that you will have to get an extension to use either of these methods, called "Iframe allow". You can get it at the chrome web store from the following url:
 # https://chrome.google.com/webstore/detail/iframe-allow/gifgpciglhhpmeefjdmlpboipkibhbjg
+
+# While this method may work, using this method will work much better, and will completely ignore the chromeos school accounts:
+1. Log out
+2. Instead of logging into your school account, login to a home account (home google account). There should be a button with the words along "use another account".
+3. You should be able to do anything without the school lock. Be careful because hapara highlights will show that you're offline, and people may get suspicious if your are loggin in but "offline".
+If this doesn't work, there is lots more things to do with chromebooks in the titanium network discord server: discord.gg/unblock.
